@@ -4,7 +4,7 @@ Live site: [https://aksamra56.github.io/formspreeform/] (https://github.com/aksa
 # How to use demo:
 Scroll down to "Contact me" direct your eyes to fill in the blank section and fill in information according to you. Fill in the text bubble on the bottom so Akash will have a better idea of what you are contacting him for. Once done the following click submit, and your message will be recieved to Akash via. text message and/or email!
 # Attributes
-form action="https://formspree.io/f/xzbwgbok" method="POST">
+form action="https://formspree.io/f/xzbwgbok" method="post">
 		
         First Name: <input type = "text" name = "first_name"/> <br>
         Last Name: <input type = "text" name = "last_name"/> <br>
