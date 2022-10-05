@@ -1,0 +1,32 @@
+#intro{
+    background-color: beige;
+    border-radius: 20px;
+   text-align: center;
+   padding: 2em;
+    } 
+
+    .image{
+        display:block;
+    margin-left:auto;
+    margin-right: auto;
+    }
+
+    form{
+        
+    }
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+
+form{
+    background-color: rgb(127, 255, 212);
+    text-align: center;
+    padding: 3em;
+    border: 3px solid black;
+    border-radius: 20px;
+    
+    }
+html{
+    background-color: rgb(38, 110, 86);
+}
